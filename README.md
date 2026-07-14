@@ -24,6 +24,12 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 3. **Časový rozsah**
    - czechia_payroll = udává roky 2000 - 2021
    - czechia_price = udává roky 2006 - 2018
-*Pro primární tabulku byly zvoleny roky 2006 - 2018, aby byla splněna podmínka porovnatelného období.*
+*(Pro primární tabulku byly zvoleny roky 2006 - 2018, aby byla splněna podmínka porovnatelného období.)*
 ### Práce s daty
-1. 
+1. **Mzdy**
+   - Agregace AVG a GROUP BY = dosáhlo se hodnot za rok a odvětví.
+2. **NULL**
+   - Vyřazení NULL z industry_branch_code = nelze přiřadit k odvětví.
+   - Vyřazení NULL z region_code = omezení krajských hodnot.
+3. **Filtr roku**
+   - Byly vybrány roky 2006 - 2018 = při ověření přes MIN, MAX, COUNT (DISTINCT) ... jsou společné roky 2006 - 2018, proto byl aplikován filtr BETWEEN místo           JOINU, aby byl výsledek přehlednější s jasně ukázal v jakém rozsahu se pohybujeme. 
