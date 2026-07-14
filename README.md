@@ -13,6 +13,7 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 ### Výstupy z projektu
 Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná data dají záskat. Tabulky pojmenujte t_jmeno_prijmeni_project_SQL_primary_final (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období - společné roky) a t_jmeno_prijmeni_project_SQL_secondary_final (pro dodatečná data o dalších evropských státech). Dále připravte sadu SQL, které z vámi připravených tabulek získají datový podklad k odpovězení na vytyčené výzkumné otázky.
 
+### Primární tabulka
 ## Průzkum dat a tvorba tabulek
 1. **Určení kódů pro mzdy**
    - value_type_code = 5958 - Průměrná hrubá mzda na zaměstnance.
