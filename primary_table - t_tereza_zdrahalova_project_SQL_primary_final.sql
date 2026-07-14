@@ -1,7 +1,5 @@
 -- Vytvoření primární tabulky pro projekt SQL.
 -- Spojení průměrných mezd a cen základní potravin - mléko, chleba.
-
-DROP TABLE IF EXISTS t_Tereza_Zdrahalova_project_SQL_primary_final;
 CREATE TABLE t_tereza_zdrahalova_project_sql_primary_final AS 
 WITH wages AS (									
 	SELECT													                -- Příprava mzdových tabulek.
