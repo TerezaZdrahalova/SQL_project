@@ -16,7 +16,7 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 ##Průzkum dat a tvorba tabulek
 1. **Určení kódů pro mzdy**
    - value_type_code = 5958 - Průměrná hrubá mzda na zaměstnance.
-   - calculation_code = 200 - Přepočtený
+   - calculation_code = 200 - Přepočtený.
 2. **Určení kódů pro potraviny**
    - 114201 = Mléko polotučné paterované (jednotka: litr).
    - 111301 = Chléb konzumní kmínový (jednotka: kilogram).
