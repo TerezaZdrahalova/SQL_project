@@ -9,9 +9,9 @@ WITH wages AS (
 		industry_branch_code,
 		AVG(value) AS avg_wage
 	FROM czechia_payroll 
-	WHERE value_type_code = 5958							      -- průměrná hrubá mzda na zaměstnance
-		AND calculation_code = 200							      -- přepočet
-		AND payroll_year BETWEEN 2006 AND 2018				-- filtr roků, kde mají mzdy i ceny společná data
+	WHERE value_type_code = 5958							      			-- průměrná hrubá mzda na zaměstnance
+		AND calculation_code = 200							     			-- přepočet
+		AND payroll_year BETWEEN 2006 AND 2018								-- filtr roků, kde mají mzdy i ceny společná data
 	GROUP BY payroll_year, industry_branch_code
 ),
 prices AS (
@@ -21,7 +21,7 @@ prices AS (
 		avg (CASE WHEN category_code = 111301 THEN value END) AS bread_price
 	FROM czechia_price 
 	WHERE category_code IN (114201, 111301)
-		AND region_code IS NULL 							        -- celorepublikový průměr
+		AND region_code IS NULL 							       		 	-- celorepublikový průměr
 		AND EXTRACT (YEAR FROM date_from) BETWEEN 2006 AND 2018
 	GROUP BY price_year
 )
@@ -35,5 +35,5 @@ prices AS (
 	FROM wages 
 	JOIN prices ON wages.payroll_year = prices.price_year
 	JOIN czechia_payroll_industry_branch AS ibranch ON wages.industry_branch_code = ibranch.code
-	WHERE wages.industry_branch_code IS NOT NULL;			-- vyřazení prázdého záznamu
+	WHERE wages.industry_branch_code IS NOT NULL;							-- vyřazení prázdného záznamu
 	
