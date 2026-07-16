@@ -33,3 +33,12 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
    - Vyřazení NULL z region_code = omezení krajských hodnot.
 3. **Filtr roku**
    - Byly vybrány roky 2006 - 2018 = při ověření přes MIN, MAX, COUNT (DISTINCT) ... jsou společné roky 2006 - 2018, proto byl aplikován filtr BETWEEN místo           JOINU, aby byl výsledek přehlednější s jasně ukázal v jakém rozsahu se pohybujeme. 
+
+## Sekundární tabulka
+### Práce s daty
+1. **Spojení tabulek**
+   - Spojení tabulek přes sloupec country, který mají tabulky stejné.
+2. **Filtry**
+   - Vyfiltrování pouze na státy Evropy.
+   - Filtr na Českou republiku = ČR jsme z dat vyřadili, jelikož sekundární tabulka se zaměřuje na dodatečná data ostatních zemí.
+   - Filtr roku 2006 - 2018 = konzistentnost s primární tabulkou.
