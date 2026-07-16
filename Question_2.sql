@@ -2,10 +2,10 @@
 
 SELECT 
 	payroll_year,
-	AVG(avg_wage) / AVG(milk_price) AS avg_liters_of_milk,		-- Průměry mezd a litrů mléka 
-	avg(avg_wage) / AVG(bread_price) AS avg_kg_of_bread			  -- Průměry mezd a kilogramů chleba.
+	AVG(avg_wage) / AVG(milk_price) AS avg_liters_of_milk,				-- Průměry mezd a litrů mléka 
+	avg(avg_wage) / AVG(bread_price) AS avg_kg_of_bread			  		-- Průměry mezd a kilogramů chleba.
 FROM t_tereza_zdrahalova_project_sql_primary_final
-WHERE payroll_year IN (2006, 2018)								          -- Omezení na první a poslední srovnatelné období.
+WHERE payroll_year IN (2006, 2018)								        -- Omezení na první a poslední srovnatelné období.
 GROUP BY payroll_year 
 ORDER BY payroll_year;
 
