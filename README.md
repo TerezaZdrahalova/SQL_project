@@ -24,6 +24,7 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 3. **Časový rozsah**
    - czechia_payroll = udává roky 2000 - 2021
    - czechia_price = udává roky 2006 - 2018
+
  *(Pro primární tabulku byly zvoleny roky 2006 - 2018, aby byla splněna podmínka porovnatelného období.)*
 ### Práce s daty
 1. **Mzdy**
