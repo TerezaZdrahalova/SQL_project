@@ -33,5 +33,5 @@ prices AS (
 	FROM wages 
 	JOIN prices ON wages.payroll_year = prices.price_year
 	JOIN czechia_payroll_industry_branch AS ibranch ON wages.industry_branch_code = ibranch.code
-	WHERE wages.industry_branch_code IS NOT NULL;							-- vyřazení prázdného záznamu
+	WHERE wages.industry_branch_code IS NOT NULL;							-- Vyřazení prázdného záznamu.
 	
