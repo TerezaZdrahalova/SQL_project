@@ -50,4 +50,5 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 - **Mléko:** Zatímco v roce 2006 si za průměrnou mzdu lidí mohli koupit 1 466 litrů mléka. V roce 2018 to bylo 1 670 litrů.
 - **Chleba:** Zatímco v roce 2006 si za průměrnou mzdu lidé mohli koupit 1 313 kilogramů chleba. V roce 2018 to bylo 1 365 kilogramů.
 Zajímavostí je, že dostupnost mléka měla větší nárůst než dostupnost chleba.
+
 *Pozn. Míry kilogramů a litrů jsou zaokrouhleny na jednotky.*
