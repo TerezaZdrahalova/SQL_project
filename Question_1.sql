@@ -1,4 +1,4 @@
--- Q2: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+-- Q1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
  
 WITH wage_changes AS (
 	SELECT 
