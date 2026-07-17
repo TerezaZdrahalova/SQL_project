@@ -49,12 +49,19 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 
 V průběhu let 2006 - 2018 mzdy celkově **rostly, ale ne rovnoměrně** ve všech odvětvích. **Nejvyšší pokles jsme zaznamenali** ve stavebnictví a poté ve výrobě a rozvodu el., plynu, tepla a klim. vzduchu. Celkem 2x jsme zaznamenali pokles ve čtyřech odvětvích a 1x pokles evidujeme u devíti odvětví. **Naopak** zdravotní a sociální péče, doprava a skladování, zpracovatelský průmysl a ostatní činnosti **nezazanamenali žádný pokles**, tzn. měli **nepřetržitý meziroční růst.** **V žádném z odvětví ale neevidujeme dlouhodobý klesající trend.**
 
-**2.** Dostupnost základních potravin, jako je chleba a mléko **v čase vzrostla**. Lidé si **mohli** za průměrnou mzdu **koupit více** základních potravin.
+**2.** **Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
+
+Dostupnost základních potravin, jako je chleba a mléko **v čase vzrostla**. Lidé si **mohli** za průměrnou mzdu **koupit více** základních potravin.
 - **Mléko:** Zatímco v roce 2006 si za průměrnou mzdu lidí mohli koupit 1 466 litrů mléka. V roce 2018 to bylo 1 670 litrů.
 - **Chleba:** Zatímco v roce 2006 si za průměrnou mzdu lidé mohli koupit 1 313 kilogramů chleba. V roce 2018 to bylo 1 365 kilogramů.
 Zajímavostí je, že dostupnost mléka měla větší nárůst než dostupnost chleba.
 
 *Pozn. Míry kilogramů a litrů jsou zaokrouhleny na jednotky.*
 
-**3.** Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+**3.** **Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
+
+Nejpomaleji rostoucí položkou je **cukr krystalový**, jehož cena v průměru dokonce i mírně klesá. Následují rajská jablka a banány.
+
+*Pozn. Kategoie jakostní víno bílé má k dispozici data pouze za roky 2015 - 2018. Její průměrná meziroční změna vychází tedy z mnohem menšího počtu než je u ostatních kategorií potravin, které srovnávají 13 období.*
+
 
