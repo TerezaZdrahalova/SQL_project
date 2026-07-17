@@ -18,14 +18,12 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 1. **Určení kódů pro mzdy**
    - value_type_code = 5958 - Průměrná hrubá mzda na zaměstnance.
    - calculation_code = 200 - Přepočtený.
-2. **Určení kódů pro potraviny**
-   - 114201 = Mléko polotučné paterované (jednotka: litr).
-   - 111301 = Chléb konzumní kmínový (jednotka: kilogram).
-3. **Časový rozsah**
+2. **Časový rozsah**
    - czechia_payroll = udává roky 2000 - 2021
    - czechia_price = udává roky 2006 - 2018
 
  *(Pro primární tabulku byly zvoleny roky 2006 - 2018, aby byla splněna podmínka porovnatelného období.)*
+ 
 ### Práce s daty
 1. **Mzdy**
    - Agregace AVG a GROUP BY = dosáhlo se hodnot za rok a odvětví.
