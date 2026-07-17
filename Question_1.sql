@@ -19,7 +19,7 @@ WITH wage_changes AS (
 	ORDER BY percent_decline DESC;	-- Seřazeno dle poklesu sestupně.
 	
  -- A: V průběhu let 2006 - 2018 mzdy celkově rostly, ale né rovnoměrně ve všech odvětvích.
- -- Nejvyšší pokles mezd byl zaznamenán v těžbě a stavebnictví a poté ve Výrobě a rozvodu el, plynu, tepla a klim. vzduchu.
+ -- Nejvyšší pokles mezd byl zaznamenán v těžbě a dobývání a poté ve Výrobě a rozvodu el, plynu, tepla a klim. vzduchu.
  -- Celkem 2x jsme zaznamenali pokles ve čtyřech odvětví a 1x pokles evidujeme u devíti odvětví.
  -- Naopak zdravotní a sociální péče, doprava a skladování, zpracovatelský průmysl a ostatní činnosti nezaznamenali žádný pokles, tzn. měli nepřetržitý meziroční růst.
  -- V žádném z odvětví ale neevidujeme dlouhodobý klesající trend.
