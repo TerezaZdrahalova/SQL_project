@@ -62,6 +62,6 @@ Zajímavostí je, že dostupnost mléka měla větší nárůst než dostupnost 
 
 Nejpomaleji rostoucí položkou je **cukr krystalový**, jehož cena v průměru dokonce i mírně klesá. Následují rajská jablka a banány.
 
-*Pozn. Kategorie jakostní víno bílé má k dispozici data pouze za roky 2015 - 2018. Její průměrná meziroční změna vychází tedy z mnohem menšího počtu než je u ostatních kategorií potravin, které srovnávají 13 období.*
+*Pozn. Kategorie jakostní víno bílé má k dispozici data pouze za roky 2015 - 2018. Její průměrná meziroční změna vychází tedy z mnohem menšího počtu než je u ostatních kategorií potravin, které srovnávají 13 období. Dále zde není aplikován filtr roků 2006 - 2018, jelikož zde pouze porovnáváme kategorie mezi sebou.*
 
 
