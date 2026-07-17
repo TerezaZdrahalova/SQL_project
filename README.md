@@ -45,7 +45,7 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 ## Odpovědi na výzkumné otázky
 **1.** **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
-V průběhu let 2006 - 2018 mzdy celkově **rostly, ale ne rovnoměrně** ve všech odvětvích. **Nejvyšší pokles jsme zaznamenali** v těžbě a stavebnictví a poté ve výrobě a rozvodu el., plynu, tepla a klim. vzduchu. Celkem 2x jsme zaznamenali pokles ve čtyřech odvětvích a 1x pokles evidujeme u devíti odvětví. **Naopak** zdravotní a sociální péče, doprava a skladování, zpracovatelský průmysl a ostatní činnosti **nezazanamenali žádný pokles**, tzn. měli **nepřetržitý meziroční růst.** **V žádném z odvětví ale neevidujeme dlouhodobý klesající trend.**
+V průběhu let 2006 - 2018 mzdy celkově **rostly, ale ne rovnoměrně** ve všech odvětvích. **Nejvyšší pokles jsme zaznamenali** v těžbě a dobývání a poté ve výrobě a rozvodu el., plynu, tepla a klim. vzduchu. Celkem 2x jsme zaznamenali pokles ve čtyřech odvětvích a 1x pokles evidujeme u devíti odvětví. **Naopak** zdravotní a sociální péče, doprava a skladování, zpracovatelský průmysl a ostatní činnosti **nezazanamenali žádný pokles**, tzn. měli **nepřetržitý meziroční růst.** **V žádném z odvětví ale neevidujeme dlouhodobý klesající trend.**
 
 **2.** **Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 
