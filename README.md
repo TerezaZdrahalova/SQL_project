@@ -62,7 +62,7 @@ Nejpomaleji rostoucí položkou je **cukr krystalový**, jehož cena v průměru
 
 *Pozn. Kategorie jakostní víno bílé má k dispozici data pouze za roky 2015 - 2018. Její průměrná meziroční změna vychází tedy z mnohem menšího počtu než je u ostatních kategorií potravin, které srovnávají 13 období. Dále zde není aplikován filtr roků 2006 - 2018, jelikož zde pouze porovnáváme kategorie mezi sebou.*
 
-**4.** Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10%).**
+**4.** **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10%).**
 
 V žádném ve sledovaném období (2006 - 2018) nebyl meziroční nárůst cen potravin o více než 10% vyšší než růst mezd.
 *Pozn. Nejblíže byl rok 2013 - mzdy klesly o 1,56% a potraviny vzrostly o 5,55% = rozdíl 7,11%.*
