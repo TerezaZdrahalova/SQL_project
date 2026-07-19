@@ -14,6 +14,8 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná data dají záskat. Tabulky pojmenujte t_jmeno_prijmeni_project_SQL_primary_final (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období - společné roky) a t_jmeno_prijmeni_project_SQL_secondary_final (pro dodatečná data o dalších evropských státech). Dále připravte sadu SQL, které z vámi připravených tabulek získají datový podklad k odpovězení na vytyčené výzkumné otázky.
 
 ## Primární tabulka
+
+Primární tabulka obsahuje průměrné mzdy po odvětvích a celkovou průměrnou cenu potravin (všchny kategorie) za rok. Ceny konkrétních potravin se selektují ze zdrojové tabulky *czechia_price.*
 ### Průzkum dat a tvorba tabulek
 1. **Určení kódů pro mzdy**
    - value_type_code = 5958 - Průměrná hrubá mzda na zaměstnance.
@@ -75,7 +77,7 @@ Ve stejném roce nelze vidět jasná souvislost mezi výškou HDP a růstem cen/
 
 Ani s ročním zpoždení není zaznamenaná žádná konzistence.
 
-*např. Rok 2009 - HDP kleslo (-4,66%), mzdy rostly (1,91%) a ceny potravin vzrostly (1,77%).*
+*např. Rok 2009 - HDP kleslo (-4,66%), mzdy v následujícím roce rostly (1,91%), ceny potravin (1,77%).*
 
 Datová sada neukazuje jednoznačný ani konzistentní vztah mezi cenany potravin/mzdy/HDP. To ani při porovnání ve stjeném roce a roce +1.
 Nelze tedy jednoznačně potvrdit, že by výraznější růst HDP vedl k výraznějšímu růstu mezd a cen potravin.
