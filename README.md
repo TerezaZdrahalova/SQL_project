@@ -67,5 +67,17 @@ Nejpomaleji rostoucí položkou je **cukr krystalový**, jehož cena v průměru
 V žádném ve sledovaném období (2006 - 2018) nebyl meziroční nárůst cen potravin o více než 10% vyšší než růst mezd.
 *Pozn. Nejblíže byl rok 2013 - mzdy klesly o 1,56% a potraviny vzrostly o 5,55% = rozdíl 7,11%.*
 
+**5.** **Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
+
+Ve stejném roce nelze vidět jasná souvislost mezi výškou HDP a růstem cen/mezd.
+
+*např. Rok 2009 - HDP kleslo (-4,66%), mzdy rostly (3,07%) a ceny potravin klesly (-6,81%).*
+
+Ani s ročním zpoždení není zaznamenaná žádná konzistence.
+
+*např. Rok 2009 - HDP kleslo (-4,66%), mzdy rostly (1,91%) a ceny potravin vzrostly (1,77%).*
+
+Datová sada neukazuje jednoznačný ani konzistentní vztah mezi cenany potravin/mzdy/HDP. To ani při porovnání ve stjeném roce a roce +1.
+Nelze tedy jednoznačně potvrdit, že by výraznější růst HDP vedl k výraznějšímu růstu mezd a cen potravin.
 
 
