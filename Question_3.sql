@@ -31,3 +31,4 @@ avg_prices AS (												                                                     
 
 -- A: Nejpomaleji zdražující položkou je cukr krystalový, jehož cena v průměru dokonce i mírně klesá. 
 -- Následují rajská jablka a banány.
+-- pozn. Čerpá se ze zdrojové tabulky czechia_price, protože primární tabulka obsahuje souhrnný průměr přes všechny kategorie.
