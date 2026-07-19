@@ -27,3 +27,4 @@ WITH food_prices AS (
 -- Chleba: Zatímco v roce 2006 si za průměrnou mzdu lidí mohli koupit 1 313 kilogramů chleba (zaokrouhleno).
 -- V roce 2018 to bylo 1 365 kilogramů chleba (zaokrouhleno).
 -- Zajímavostí je, že dostupnost mléka měla větší nárůst než dostupnost chleba.
+-- pozn. Ceny konkrétních položek (mléko, chleba) se čerpají ze zdrojové tabulky czechia_price, jelikož primární tabulka obsahuje data za všchny odvětví.
